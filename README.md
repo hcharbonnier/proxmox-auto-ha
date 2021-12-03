@@ -1,2 +1,2 @@
 # proxmox-auto-ha
-Script to auto assign new VM to a HA group
+Script to auto assign new running VM to a HA group
