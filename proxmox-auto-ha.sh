@@ -29,7 +29,7 @@ do
     ID="ct:${VMid}"
     ;;
   *)
-    echo "unknown type:${}VMid_type for VM $VMid"
+    echo "unknown type:${VMid_type} for VM $VMid"
     break
     ;;
   esac
